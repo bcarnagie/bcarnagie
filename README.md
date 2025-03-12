@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Brianna Carnagie and I am a data professional working at the intersection of public health, technology, and policy. With a background in epidemiology and public health data science, I am passionate about leveraging data-driven solutions to improve health outcomes, enhance government services, and promote equity. My work spans across health analytics, civic technology, and digital governance, with a strong focus on data ethicsand community-driven insights.
+My name is Brianna Carnagie (she/her) and I am a data professional working at the intersection of public health, technology, and policy. With a background in epidemiology and public health data science, I am passionate about leveraging data-driven solutions to improve health outcomes, enhance government services, and promote equity. My work spans across health analytics, civic technology, and digital governance, with a strong focus on data ethicsand community-driven insights.
 
 **Check out some of my past projects:** 
 
