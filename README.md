@@ -5,7 +5,7 @@ My name is Brianna Carnagie and I am a data professional working at the intersec
 **Check out some of my past projects:** 
 
 📊 [Evaluating Mammography and Tomography Prevalence in Medicare Data](https://github.com/bcarnagie/Mammography-Code-Sample) (2025)
-- Conducting an analysis of mammography and tomography utilization among Medicare beneficiaries.
+- Conducted an analysis of mammography and tomography utilization among Medicare beneficiaries.
 
 🗂️ [Final Report: Risk Factors for Food Insecurity Amongst Immigrants](https://bcarnagie.github.io/files/MPH%20Thesis.pdf) (2024)
 - Investigated key risk factors contributing to food insecurity among immigrant populations using NHANES data, analyzing health and socioeconomic determinants to identify disparities and inform policy interventions.
