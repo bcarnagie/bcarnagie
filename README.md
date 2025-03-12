@@ -10,8 +10,8 @@ My name is Brianna Carnagie and I am a data professional working at the intersec
 🗂️ [Final Report: Risk Factors for Food Insecurity Amongst Immigrants](https://bcarnagie.github.io/files/MPH%20Thesis.pdf) (2024)
 - Investigated key risk factors contributing to food insecurity among immigrant populations using NHANES data, analyzing health and socioeconomic determinants to identify disparities and inform policy interventions.
 
-🏥 [Rat Sightings in NYC: Investigating Trends & Mitigation Efforts](https://yynyfl.github.io/Final-Project/index.html) (2023)
-- This project explores New York City’s growing rat problem using 311 Rat Sightings data and sanitation records to assess trends and the impact of recent mitigation efforts, including the April 2023 trash disposal policy change. 
+🏥 [Rat Sightings in NYC: Investigating Trends & Mitigation Efforts](https://github.com/bcarnagie/rats-in-nyc) (2023)
+- This project explores New York City’s growing rat problem using 311 Rat Sightings data and sanitation records to assess trends and the impact of recent mitigation efforts, including the April 2023 trash disposal policy change. The link to the website with results is linked [here](https://yynyfl.github.io/Final-Project/index.html).
 
 Languages & Tools: Python, SQL, R, SAS, Databricks, Snowflake
 
