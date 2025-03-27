@@ -10,6 +10,9 @@ My name is Brianna Carnagie (she/her) and I am a data professional working at th
 🗂️ [Final Report: Risk Factors for Food Insecurity Amongst Immigrants](https://bcarnagie.github.io/files/MPH%20Thesis.pdf) (2024)
 - Investigated key risk factors contributing to food insecurity among immigrant populations using NHANES data, analyzing health and socioeconomic determinants to identify disparities and inform policy interventions.
 
+🧬 [I-COPE Study: SARS-CoV-2 & HIV in Kenya](https://github.com/bcarnagie/icope_survey_code_sample) (2023)
+- This project analyzes baseline characteristics and COVID-19 vaccination patterns among people living with HIV in Kenya, using SAS for data wrangling, descriptive analysis, and visualization. The code supports Table 1 and Table 2 of the I-COPE survey.
+
 🏥 [Rat Sightings in NYC: Investigating Trends & Mitigation Efforts](https://github.com/bcarnagie/rats-in-nyc) (2023)
 - This project explores New York City’s growing rat problem using 311 Rat Sightings data and sanitation records to assess trends and the impact of recent mitigation efforts, including the April 2023 trash disposal policy change. The link to the website with results is linked [here](https://yynyfl.github.io/Final-Project/index.html).
 
